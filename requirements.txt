@@ -1,0 +1,19 @@
+# PDF処理
+pypdf>=3.17.0
+pdfplumber>=0.10.3
+
+# Excel処理
+openpyxl>=3.1.2
+
+# PDF生成・印鑑押印
+reportlab>=4.0.7
+Pillow>=10.1.0
+
+# Windows Outlook連携（Windowsのみ）
+pywin32>=306
+
+# GUI
+# tkinter は Python標準ライブラリのため不要
+
+# EXE化（開発時のみ）
+# pyinstaller>=6.3.0
