@@ -459,7 +459,7 @@ A. Issuesまたは作者のSNSまでご連絡ください。
 
 - GitHub: [@rancorder](https://github.com/rancorder)
 - note: [@rancorder](https://note.com/rancorder)
-- blog:(https://portfolio-crystal-dreamscape.vercel.app/)
+- blog:https://portfolio-crystal-dreamscape.vercel.app/
 ---
 
 ## 謝辞
