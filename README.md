@@ -457,10 +457,9 @@ A. Issuesまたは作者のSNSまでご連絡ください。
 
 **業務自動化エンジニア**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter/X: [@yourusername](https://twitter.com/yourusername)
-- note: [noteアカウント](https://note.com/yourusername)
-
+- GitHub: [@yourusername](https://github.com/rancorder)
+- note: [noteアカウント](https://note.com/rancorder)
+- blog:(https://portfolio-crystal-dreamscape.vercel.app/)
 ---
 
 ## 謝辞
