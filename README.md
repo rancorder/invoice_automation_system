@@ -198,9 +198,7 @@ Outlookメール下書き作成
 
 ```
 invoice-automation-system/
-├── invoice_automation_system_v5.py  # メインプログラム
-├── build_invoice_exe.py             # EXE化スクリプト
-├── requirements.txt                 # 依存パッケージ
+├── invoice_automation_system.py　   # メインプログラム
 ├── README.md                        # このファイル
 ├── 会社マスター_サンプル.xlsx        # サンプルExcel
 └── 電子印サンプル/                   # サンプルフォルダ
